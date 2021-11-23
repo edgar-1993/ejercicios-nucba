@@ -1,0 +1,23 @@
+h1{
+    color: red;
+}
+h2{
+    color: green;
+}
+.datos {
+    width: 300px;
+    background-color: greenyellow;
+    border: red solid 5px;
+
+
+}
+.formacion{
+    width: 300px;
+    background-color: greenyellow;
+    border: red solid 5px;   
+}
+.experiencia{
+    width: 300px;
+    background-color: greenyellow;
+    border: red solid 5px;   
+}
